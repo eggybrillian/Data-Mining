@@ -1,0 +1,21 @@
+Gender,Education_Level,Marital_Status,Income_Category,Card_Category,Attrition_Flag
+M,Unknown,Single,$40K - $60K,Blue,Attrited Customer
+M,Uneducated,Married,$60K - $80K,Blue,Attrited Customer
+M,College,Single,$80K - $120K,Blue,Attrited Customer
+M,High School,Unknown,$120K +,Blue,Attrited Customer
+F,Graduate,Single,Less than $40K,Blue,Attrited Customer
+M,Post-Graduate,Unknown,$80K - $120K,Blue,Attrited Customer
+M,High School,Single,$60K - $80K,Blue,Attrited Customer
+F,Graduate,Single,Less than $40K,Blue,Attrited Customer
+F,Uneducated,Married,Unknown,Blue,Attrited Customer
+M,Unknown,Single,$80K - $120K,Blue,Attrited Customer
+M,Doctorate,Single,$60K - $80K,Blue,Existing Customer
+M,Uneducated,Married,$80K - $120K,Blue,Existing Customer
+F,High School,Married,Unknown,Blue,Existing Customer
+M,Uneducated,Single,$60K - $80K,Blue,Existing Customer
+F,Uneducated,Single,Unknown,Blue,Existing Customer
+F,Graduate,Married,Less than $40K,Blue,Existing Customer
+F,Graduate,Married,Less than $40K,Blue,Existing Customer
+F,High School,Single,Less than $40K,Blue,Existing Customer
+M,Graduate,Single,$60K - $80K,Blue,Existing Customer
+F,Post-Graduate,Married,Unknown,Blue,Existing Customer
